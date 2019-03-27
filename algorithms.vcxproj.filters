@@ -13,64 +13,64 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\1강 2강 dp 1">
-      <UniqueIdentifier>{267a6c7c-8178-442a-8848-f6557b9c6cf0}</UniqueIdentifier>
+    <Filter Include="소스 파일\dynamic_programming">
+      <UniqueIdentifier>{3d28be99-1d68-4ce6-bcbd-b70d75b4bf11}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3강 graph 1">
+    <Filter Include="소스 파일\graph">
       <UniqueIdentifier>{2a4bda1d-0200-4684-a729-9f73f5a98708}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
-      <Filter>소스 파일\3강 graph 1</Filter>
-    </ClCompile>
-    <ClCompile Include="1699.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="1912.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="2225.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="9095.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11052 실패 나중에 재귀 구.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11055.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11722.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11726.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="11727.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
-    </ClCompile>
-    <ClCompile Include="13707.cpp">
-      <Filter>소스 파일\1강 2강 dp 1</Filter>
+      <Filter>소스 파일\graph</Filter>
     </ClCompile>
     <ClCompile Include="Adjacency_matrix_and_list.cpp">
-      <Filter>소스 파일\3강 graph 1</Filter>
+      <Filter>소스 파일\graph</Filter>
     </ClCompile>
     <ClCompile Include="13023_ABCDE.cpp">
-      <Filter>소스 파일\3강 graph 1</Filter>
+      <Filter>소스 파일\graph</Filter>
     </ClCompile>
     <ClCompile Include="11724.cpp">
-      <Filter>소스 파일\3강 graph 1</Filter>
+      <Filter>소스 파일\graph</Filter>
     </ClCompile>
     <ClCompile Include="1707.cpp">
-      <Filter>소스 파일\3강 graph 1</Filter>
+      <Filter>소스 파일\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1699.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="1912.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="2225.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11052 실패 나중에 재귀 구.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11053.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11055.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11722.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
+    </ClCompile>
+    <ClCompile Include="13707.cpp">
+      <Filter>소스 파일\dynamic_programming</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
