@@ -13,17 +13,26 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\그냥 해보기">
-      <UniqueIdentifier>{09718481-c9eb-46ea-b0d8-656c24833edc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\그냥 해보기\just_do_it">
-      <UniqueIdentifier>{aca5d90b-d2bc-47fc-b406-e4cc7ffad970}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\그래프">
       <UniqueIdentifier>{2a4bda1d-0200-4684-a729-9f73f5a98708}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\동적 계획법">
       <UniqueIdentifier>{3d28be99-1d68-4ce6-bcbd-b70d75b4bf11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완전 탐색">
+      <UniqueIdentifier>{09718481-c9eb-46ea-b0d8-656c24833edc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완전 탐색\그냥 해보기">
+      <UniqueIdentifier>{aca5d90b-d2bc-47fc-b406-e4cc7ffad970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완전 탐색\건너뛰며 해보기">
+      <UniqueIdentifier>{550b17b3-93c9-483d-8bb7-f501f5e72bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완전 탐색\N중 for문">
+      <UniqueIdentifier>{30424758-0d9a-4973-85b6-0bab52208b25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\완전 탐색\순열">
+      <UniqueIdentifier>{70a41e7a-b0b3-497c-9d3e-623085e26f90}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -51,9 +60,6 @@
     <ClCompile Include="2225.cpp">
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
-    <ClCompile Include="9095.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
     <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
@@ -79,13 +85,43 @@
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="2309.cpp">
-      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
+      <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
     </ClCompile>
     <ClCompile Include="1476.cpp">
-      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
+      <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
     </ClCompile>
     <ClCompile Include="1107.cpp">
-      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
+      <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="14500.cpp">
+      <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_dp1.cpp">
+      <Filter>소스 파일\동적 계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="1748.cpp">
+      <Filter>소스 파일\완전 탐색\건너뛰며 해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_완탐.cpp">
+      <Filter>소스 파일\완전 탐색\N중 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="6064.cpp">
+      <Filter>소스 파일\완전 탐색\건너뛰며 해보기</Filter>
+    </ClCompile>
+    <ClCompile Include="10972.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10973.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10974.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="10819.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="2529.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
