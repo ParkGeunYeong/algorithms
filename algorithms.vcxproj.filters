@@ -13,64 +13,79 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\dynamic_programming">
-      <UniqueIdentifier>{3d28be99-1d68-4ce6-bcbd-b70d75b4bf11}</UniqueIdentifier>
+    <Filter Include="소스 파일\그냥 해보기">
+      <UniqueIdentifier>{09718481-c9eb-46ea-b0d8-656c24833edc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\graph">
+    <Filter Include="소스 파일\그냥 해보기\just_do_it">
+      <UniqueIdentifier>{aca5d90b-d2bc-47fc-b406-e4cc7ffad970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
       <UniqueIdentifier>{2a4bda1d-0200-4684-a729-9f73f5a98708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적 계획법">
+      <UniqueIdentifier>{3d28be99-1d68-4ce6-bcbd-b70d75b4bf11}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
-      <Filter>소스 파일\graph</Filter>
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="Adjacency_matrix_and_list.cpp">
-      <Filter>소스 파일\graph</Filter>
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="13023_ABCDE.cpp">
-      <Filter>소스 파일\graph</Filter>
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="11724.cpp">
-      <Filter>소스 파일\graph</Filter>
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="1707.cpp">
-      <Filter>소스 파일\graph</Filter>
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="1699.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="1912.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="2225.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="9095.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11052 실패 나중에 재귀 구.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11055.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11722.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11726.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="11727.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="13707.cpp">
-      <Filter>소스 파일\dynamic_programming</Filter>
+      <Filter>소스 파일\동적 계획법</Filter>
+    </ClCompile>
+    <ClCompile Include="2309.cpp">
+      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
+    </ClCompile>
+    <ClCompile Include="1476.cpp">
+      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
+    </ClCompile>
+    <ClCompile Include="1107.cpp">
+      <Filter>소스 파일\그냥 해보기\just_do_it</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
