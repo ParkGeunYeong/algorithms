@@ -123,5 +123,8 @@
     <ClCompile Include="2529.cpp">
       <Filter>소스 파일\완전 탐색\순열</Filter>
     </ClCompile>
+    <ClCompile Include="1339.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
