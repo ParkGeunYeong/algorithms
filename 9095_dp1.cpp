@@ -6,8 +6,11 @@ int go(int n) {
 	if (n <= 2) {
 		return n<=1 ? 1 : 2;
 	}
+
 	if (d[n] > 0) return d[n];
+
 	d[n] = go(n - 1) + go(n - 2) + go(n - 3);
+
 	return d[n];
 }
 

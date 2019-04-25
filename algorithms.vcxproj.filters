@@ -63,9 +63,6 @@
     <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
-    <ClCompile Include="11052 실패 나중에 재귀 구.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
     <ClCompile Include="11053.cpp">
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
@@ -125,6 +122,9 @@
     </ClCompile>
     <ClCompile Include="1339.cpp">
       <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="11052.cpp">
+      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

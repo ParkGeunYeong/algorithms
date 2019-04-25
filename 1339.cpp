@@ -17,7 +17,7 @@ int main() {
 		b[i].second = size(b[i].first);
 		for (char j : b[i].first) {
 			if (match.find(j) == match.end())
-				match[j] = 0;-
+				match[j] = 0;
 		}
 	}
 
