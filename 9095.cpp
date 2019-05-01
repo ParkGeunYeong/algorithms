@@ -4,7 +4,7 @@ int d[1001];
 
 int go(int n) {
 	if (n <= 2) {
-		return n<=1 ? 1 : 2;
+		return n <= 1 ? 1 : 2;
 	}
 
 	if (d[n] > 0) return d[n];

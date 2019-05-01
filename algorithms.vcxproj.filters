@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\완전 탐색\순열">
       <UniqueIdentifier>{70a41e7a-b0b3-497c-9d3e-623085e26f90}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\동적 계획법\dp2">
+      <UniqueIdentifier>{7f8c003d-e5d6-45af-a70a-d873d80926ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적 계획법\dp1">
+      <UniqueIdentifier>{1ebddc4c-3693-4086-855f-8340c967331f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
@@ -51,36 +57,6 @@
     <ClCompile Include="1707.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
-    <ClCompile Include="1699.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="1912.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="2225.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="10844 이중for문 재귀 모르겠네 ㅂㄷㅂㄷ.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="11055.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="11722.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="11726.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="11727.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
-    <ClCompile Include="13707.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
-    </ClCompile>
     <ClCompile Include="2309.cpp">
       <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
     </ClCompile>
@@ -92,9 +68,6 @@
     </ClCompile>
     <ClCompile Include="14500.cpp">
       <Filter>소스 파일\완전 탐색\그냥 해보기</Filter>
-    </ClCompile>
-    <ClCompile Include="9095_dp1.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
     <ClCompile Include="1748.cpp">
       <Filter>소스 파일\완전 탐색\건너뛰며 해보기</Filter>
@@ -123,8 +96,62 @@
     <ClCompile Include="1339.cpp">
       <Filter>소스 파일\완전 탐색\순열</Filter>
     </ClCompile>
+    <ClCompile Include="11048.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="1890.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="10942.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="1699.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="1912.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="2193.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="2225.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="10844.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
     <ClCompile Include="11052.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11053.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11055.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11057.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11722.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="13707.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="2293.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
+    </ClCompile>
+    <ClCompile Include="9465.cpp">
+      <Filter>소스 파일\동적 계획법\dp1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

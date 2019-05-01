@@ -45,7 +45,7 @@ int main() {
 			else {
 				check = false;
 				break;
-			}
+			} 
 		}
 		if (check == true) break;
 	} while (next_permutation(n_min.begin(), n_min.end()));
