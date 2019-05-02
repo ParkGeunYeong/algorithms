@@ -2,22 +2,7 @@
 #include<cstring>
 using namespace std;
 int coin[101];
-int cache[101][10001];
-
-int go(int n, int k) {
-	if (k < 0) return 0;
-	if (k == 0) return 1;
-
-	int& ret = cache[n][k];
-	if (ret != -1) return ret;
-
-	ret = 0;
-	for (int i = n; i >= 1; i--)
-	{
-		ret += go(i, k - coin[i]);
-	}
-	return ret;
-}
+int cache[10001];
 
 int main() {
 	ios_base::sync_with_stdio(false);
@@ -30,8 +15,17 @@ int main() {
 	{
 		cin >> coin[i];
 	}
-	memset(cache, -1, sizeof(cache));
-	cout << go(n, k) << "\n";
+	int result = 0;
+	cache[0] = 1;
+	for (int i = 1; i <= n; i++)
+	{
+		for (int j = coin[i]; j <= k; j++)
+		{
+			cache[j] += cache[j - coin[i]];
+		}
+	}
+
+	cout << cache[k] << '\n';
 		
 	return 0;
 }
