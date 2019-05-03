@@ -165,5 +165,14 @@
     <ClCompile Include="5557.cpp">
       <Filter>소스 파일\동적 계획법\dp2</Filter>
     </ClCompile>
+    <ClCompile Include="2293_re.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="2294.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="12969.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
