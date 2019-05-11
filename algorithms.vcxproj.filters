@@ -40,15 +40,15 @@
     <Filter Include="소스 파일\동적 계획법\dp1">
       <UniqueIdentifier>{1ebddc4c-3693-4086-855f-8340c967331f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\카코페2018 예선">
+      <UniqueIdentifier>{f95d18ca-4a49-4faa-b569-e665115a914a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="Adjacency_matrix_and_list.cpp">
-      <Filter>소스 파일\그래프</Filter>
-    </ClCompile>
-    <ClCompile Include="13023_ABCDE.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="11724.cpp">
@@ -171,14 +171,38 @@
     <ClCompile Include="2294.cpp">
       <Filter>소스 파일\동적 계획법\dp2</Filter>
     </ClCompile>
-    <ClCompile Include="12969.cpp">
-      <Filter>소스 파일\동적 계획법\dp2</Filter>
-    </ClCompile>
     <ClCompile Include="17069.cpp">
       <Filter>소스 파일\동적 계획법</Filter>
     </ClCompile>
-    <ClCompile Include="17069_re.cpp">
-      <Filter>소스 파일\동적 계획법</Filter>
+    <ClCompile Include="14238.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="12969.cpp">
+      <Filter>소스 파일\동적 계획법\dp2</Filter>
+    </ClCompile>
+    <ClCompile Include="1_15953.cpp">
+      <Filter>소스 파일\카코페2018 예선</Filter>
+    </ClCompile>
+    <ClCompile Include="2_15954.cpp">
+      <Filter>소스 파일\카코페2018 예선</Filter>
+    </ClCompile>
+    <ClCompile Include="13023.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2667.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="4963.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2146.cpp">
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

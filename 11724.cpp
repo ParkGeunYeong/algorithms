@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-vector<vector<int>> g;
+vector<int> g[1001];
 bool check[1001];
 
 void dfs(int node) {
@@ -19,13 +19,12 @@ int main() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n, v, t1, t2;
+	int n, v, from, to;
 	cin >> n >> v;
-	g.assign(n + 1, {});
 	for (int i = 0; i < v; i++)
 	{
-		cin >> t1 >> t2;
-		g[t1].push_back(t2); g[t2].push_back(t1);
+		cin >> from >> to;
+		g[from].push_back(to); g[to].push_back(from);
 	}
 
 	int ans = 0;
