@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\카코페2018 예선">
       <UniqueIdentifier>{f95d18ca-4a49-4faa-b569-e665115a914a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\온코더">
+      <UniqueIdentifier>{1766e24a-4029-459e-a877-d72a05049e0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
@@ -203,6 +206,12 @@
     </ClCompile>
     <ClCompile Include="2146.cpp">
       <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="first.cpp">
+      <Filter>소스 파일\온코더</Filter>
+    </ClCompile>
+    <ClCompile Include="sec.cpp">
+      <Filter>소스 파일\온코더</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
