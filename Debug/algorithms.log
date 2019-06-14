@@ -1,6 +1,2 @@
-﻿  sec.cpp
-C:\Users\pgy\source\repos\algorithms\algorithms\sec.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\pgy\source\repos\algorithms\algorithms\sec.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\pgy\source\repos\algorithms\algorithms\sec.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\pgy\source\repos\algorithms\algorithms\sec.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  1201.cpp
   algorithms.vcxproj -> C:\Users\pgy\source\repos\algorithms\Debug\algorithms.exe

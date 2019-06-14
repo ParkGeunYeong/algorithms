@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\온코더">
       <UniqueIdentifier>{1766e24a-4029-459e-a877-d72a05049e0d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{aebb34bf-a9e8-4925-91bd-9d4c3331d5d5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206_dfs_bfs.cpp">
@@ -212,6 +215,36 @@
     </ClCompile>
     <ClCompile Include="sec.cpp">
       <Filter>소스 파일\온코더</Filter>
+    </ClCompile>
+    <ClCompile Include="11047.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1931.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="11399.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1541.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="2875.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="10610.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1783.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="1201.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="2873.cpp">
+      <Filter>소스 파일\그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
