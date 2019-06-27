@@ -1,2 +1,3 @@
-﻿  1201.cpp
+﻿  14889.cpp
+C:\Users\pgy\source\repos\algorithms\algorithms\14889.cpp(9,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
   algorithms.vcxproj -> C:\Users\pgy\source\repos\algorithms\Debug\algorithms.exe

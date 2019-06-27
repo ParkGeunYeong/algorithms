@@ -12,6 +12,7 @@ int n_island = 0;
 vector<pair<pair<int, int>,pair<int,int>>> todo;
 
 void check_map(int r, int c) {
+
 	if (checked_map[r][c] >= 1) return;
 	checked_map[r][c] = n_island;
 	for (int i = 0; i < 4; i++)

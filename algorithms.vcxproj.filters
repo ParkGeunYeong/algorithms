@@ -49,11 +49,11 @@
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{aebb34bf-a9e8-4925-91bd-9d4c3331d5d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\완전 탐색\비트마스크">
+      <UniqueIdentifier>{a082af81-9ecf-45aa-b1eb-b3222d4a5d49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1206_dfs_bfs.cpp">
-      <Filter>소스 파일\그래프</Filter>
-    </ClCompile>
     <ClCompile Include="Adjacency_matrix_and_list.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
@@ -207,9 +207,6 @@
     <ClCompile Include="7576.cpp">
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
-    <ClCompile Include="2146.cpp">
-      <Filter>소스 파일\그래프</Filter>
-    </ClCompile>
     <ClCompile Include="first.cpp">
       <Filter>소스 파일\온코더</Filter>
     </ClCompile>
@@ -243,8 +240,17 @@
     <ClCompile Include="1201.cpp">
       <Filter>소스 파일\그리디</Filter>
     </ClCompile>
-    <ClCompile Include="2873.cpp">
-      <Filter>소스 파일\그리디</Filter>
+    <ClCompile Include="1260_dfs_bfs.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="2146_미해결.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="10971.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
+    </ClCompile>
+    <ClCompile Include="14889.cpp">
+      <Filter>소스 파일\완전 탐색\순열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
