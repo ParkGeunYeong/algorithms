@@ -252,5 +252,11 @@
     <ClCompile Include="14889.cpp">
       <Filter>소스 파일\완전 탐색\순열</Filter>
     </ClCompile>
+    <ClCompile Include="1182.cpp">
+      <Filter>소스 파일\완전 탐색\비트마스크</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
